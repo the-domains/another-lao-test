@@ -2,6 +2,7 @@ name: Another LAO Test
 favicon: null
 layout_spectrum: 0.5942013303283602
 typography_spectrum: 0.8573051332496107
+title: Another LAO test
 cta:
   domain: null
   bucket: null
